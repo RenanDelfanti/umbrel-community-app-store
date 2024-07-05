@@ -17,4 +17,4 @@ services:
     volumes:
       - ${APP_DATA_DIR}/data:/data
       - ${UMBREL_ROOT}/data/storage:/umbrel
-      - ${UMBREL_ROOT}:/umbrel_data
+      - ${UMBREL_ROOT}:/raspberrypi
