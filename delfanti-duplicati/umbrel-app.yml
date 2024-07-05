@@ -4,6 +4,7 @@ name: Duplicati
 tagline: Store securely encrypted backups in the cloud
 category: files
 version: "2.0.8.1_beta_2024-05-07"
+icon: https://static-00.iconduck.com/assets.00/duplicati-icon-2048x1857-5pgrnzdy.png
 port: 38476
 description: >-
   Pick your own backend and store encrypted backups of your umbrel files anywhere!
